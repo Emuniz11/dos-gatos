@@ -1,3 +1,3 @@
 # dos-gatos
 
-Repo for personal C++ projects and references.
+Repo for personal C++ projects and references
